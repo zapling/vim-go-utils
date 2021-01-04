@@ -9,6 +9,8 @@ plugin offers, use vim-go instead. I made this plugin for personal use as I like
 
 ## Features
 
+Only a subset of features is available from the original vim-go plugin.
+
 ### Coverage
 
 ```
