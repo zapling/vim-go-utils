@@ -1,3 +1,5 @@
+# WIP: Not stable for use
+
 # vim-go-utils
 
 A subset of features taken from the popular [vim-go](https://github.com/fatih/vim-go) plugin.
