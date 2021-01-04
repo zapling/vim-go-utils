@@ -6,6 +6,8 @@
 
 " Quit when a (custom) syntax file was already loaded
 
+hi def link goCoverageNormalText Comment
+
 function! s:hi()
   " :GoCoverage commands
   hi def      goCoverageCovered    ctermfg=green guifg=#A6E22E
