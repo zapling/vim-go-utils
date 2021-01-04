@@ -1,18 +1,11 @@
-# WIP: Not stable for use
-
 # vim-go-utils
 
 A subset of features taken from the popular [vim-go](https://github.com/fatih/vim-go) plugin.
 
-# Warning
-
-This plugin is not compatible with the original vim-go plugin, if you need more features than this
-pugin offers, use vim-go instead.
-
 ## Disclaimer
 
-This plugin was made for personal use as I only care about a small set of features in vim-go, and
-using the full plugin disrupted my workflow.
+This plugin is not compatible with the original [vim-go](https://github.com/fatih/vim-go) plugin, if you need more features than this
+plugin offers, use vim-go instead. I made this plugin for personal use as I liked some of the features in vim-go, but I had troubles disabling some features that disrupted my workflow.
 
 ## Features
 
@@ -24,3 +17,9 @@ using the full plugin disrupted my workflow.
 :GoCoverageToggle
 :GoCoverageBrowser
 ```
+
+### License
+
+Same license as vim-go. I have made some changes (mostly removed code that was unnecessary for me) but for the most part code is copied from vim-go.
+
+The BSD 3-Clause License - see [LICENSE](LICENSE) for more details
