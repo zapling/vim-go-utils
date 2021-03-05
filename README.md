@@ -15,6 +15,10 @@ plugin offers, use vim-go instead. I made this plugin for personal use as I like
 
 Only a subset of features is available from the original vim-go plugin.
 
+### Syntax highlighting
+
+Highlighting for `go.mod` and `go.sum`
+
 ### Coverage
 
 ```

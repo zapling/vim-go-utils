@@ -7,4 +7,8 @@ if exists('g:loaded_vim_go_utils')
 endif
 let g:loaded_vim_go_utils = 1
 
+" Set syntax highlighting
+au BufRead,BufNewFile go.mod set syntax=gomod
+au BufRead,BufNewFile go.sum set syntax=gosum
+
 " Nothing to do here as of yet!
